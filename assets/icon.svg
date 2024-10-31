@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <clipPath id="clip-Login_Details_1">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="Login_Details_1" data-name="Login Details – 1" clip-path="url(#clip-Login_Details_1)">
+    <g id="Group_1156" data-name="Group 1156" transform="translate(-157.952 -513.278)">
+      <text id="MULTIPLE_CURRENCY" data-name="MULTIPLE CURRENCY" transform="translate(177.829 856.033)" fill="#092a54" font-size="31" font-family="Mulish-BlackItalic, Mulish" font-weight="800" font-style="italic" letter-spacing="0.25em"><tspan x="0" y="0">MULTIPLE CURRENCY</tspan></text>
+      <g id="Group_1155" data-name="Group 1155" transform="translate(338.913 662.363)">
+        <path id="Path_239" data-name="Path 239" d="M879.775,703.8c-24.347,26.91-29.686,52.539-34.812,71.547.854-52.325,46.132-106.145,46.132-106.145l-97.389-6.834L785.377,672.4s70.906,6.621,79.663,7.475c-27.978,49.549-28.832,92.9-28.405,115.97-13.455-44.423,7.8-108.495,7.8-108.495H757.612c-32.89,64.285,11.747,106.359,11.747,106.359-31.609-51.257-6.407-95.894-6.407-95.894s59.587-.854,65.78-1.068c-15.591,60.655,1.495,106.573,4.485,113.407C919.927,785.167,885.755,713.62,879.775,703.8Z" transform="translate(-745.522 -662.363)" fill="#092a54"/>
+        <path id="Path_240" data-name="Path 240" d="M861.094,825.692s-45.373,1.6-52.1,1.6c-23.066,100.913,62.149,99.845,62.149,99.845C853.524,895.957,861.094,825.692,861.094,825.692Z" transform="translate(-788.147 -779.347)" fill="#00a0df"/>
+        <text id="_" data-name="₹" transform="translate(32.354 113.187)" fill="#fff" font-size="54" font-family="Calibri-Bold, Calibri" font-weight="700" letter-spacing="0.25em"><tspan x="0" y="0">₹</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

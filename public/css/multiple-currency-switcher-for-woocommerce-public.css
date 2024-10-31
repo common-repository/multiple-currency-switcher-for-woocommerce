@@ -1,0 +1,78 @@
+.sidebar_toggle {
+    position: relative;
+    z-index: 9;
+    cursor: pointer;
+}
+
+.position_cmn .sidebar_wrapper {
+    position: fixed;
+    top: 50%;
+    -webkit-transition: all 0.25s ease-in-out;
+}
+
+.position_right .sidebar_wrapper {
+    right: 40px;
+    transform: translate(100%, -50%);
+}
+
+.position_left .sidebar_wrapper {
+    left: 40px;
+    transform: translate(-100%, -50%);
+}
+
+.position_left .sidebar_wrapper:hover {
+    transform: translate(0%, -50%);
+    left: 0;
+    -webkit-transition: all 0.25s ease-in-out;
+}
+
+.position_right .sidebar_wrapper:hover {
+    transform: translate(0%, -50%);
+    right: 0;
+    -webkit-transition: all 0.25s ease-in-out;
+}
+
+.position_cmn .multiple-currency-switcher-sidebar {
+    background-color: #a18df7;
+    padding: 10px;
+    font-size: 12px;
+    text-align: center;
+    margin: 5px 0;
+    text-transform: uppercase;
+    /* color: white; */
+}
+
+.position_left .sidebar_wrapper>strong {
+    position: relative;
+    left: -50px;
+}
+
+.position_right .sidebar_wrapper>strong {
+    position: relative;
+    right: -50px;
+}
+
+.position_left .sidebar_wrapper:hover>strong {
+    left: 0px;
+}
+
+.position_right .sidebar_wrapper:hover>strong {
+    right: 0px;
+}
+
+.position_cmn .multiple-currency-switcher-sidebar span {
+    text-transform: uppercase;
+    width: 25px;
+}
+
+.position_left .multiple-currency-switcher-sidebar span {
+    float: right;
+    text-align: right;
+    margin-left: 10px;
+}
+
+.position_right .multiple-currency-switcher-sidebar span {
+    float: left;
+    text-align: left;
+    margin-right: 10px;
+}
